@@ -112,7 +112,7 @@ function handleClick(box) {
 
           }
 
-          resetGame();
+          gameover = true;
 
         return;
       }
