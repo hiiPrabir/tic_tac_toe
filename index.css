@@ -22,7 +22,7 @@ h1{
 }
 /* ... existing CSS ... */
 .popup {
-  font-display: fallback;
+display : none;
   position: fixed;
   top: 0;
   padding: 20px;
