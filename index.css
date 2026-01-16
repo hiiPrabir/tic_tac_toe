@@ -12,10 +12,10 @@ h1{
 }
 .box{
     background-color: rgb(30, 220, 233);
-    padding: 70px;
-    height : 70px;
-    width: 70px;
-    font-size: 70px;
+    padding: 50px;
+    height : 50px;
+    width: 50px;
+    font-size: 50px;
     color: rgb(165, 42, 42);
     border: 1px solid black;
     text-align: center;
